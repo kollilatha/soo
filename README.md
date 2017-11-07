@@ -1,2 +1,4 @@
 # soo
-#hi this 
+#purchasing
+#selling
+facilitaor
